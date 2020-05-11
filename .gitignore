@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+data/
+*.py[cod]
+*$py.class
+*.html
+*.iml
